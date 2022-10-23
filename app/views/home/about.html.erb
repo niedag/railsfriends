@@ -1,12 +1,22 @@
-<h1>About us...</h1>
+<h1>Who On Earth I am
+	<%#= link rel = "stylesheet" href="about.css"%>
+	<%= stylesheet_link_tag "application" %>
+</h1>
 <p>
-	<%= @about_me %>
+	<%= @about_me %> My research will be focused on the effects of climate change (decreasing pH and increasing temperature of seawater) on the calcification rates of Tubastraea coccinea, currently invasive to the Izu Peninsula. 
+	<br/> <br/>
+	I am picking up computer languages such as Java, Python, C++/C#, Ruby on Rails, R as a side hobby, but mainly proficient in Java. At the moment, I am branching into disciplines of programming such as web development, app development, and game development. 
+
+	Other hobbies I have include cooking, traveling, bikepacking, fishing, camping, and learning new skills
+
+	<br/><br/><br/>
+	Below is a picture of myself at my favorite ramen restaurant in Mitaka, Tokyo. A place called, Guutara, meaning good-for-nothing or slacker in Japanese. It serves the best Tonkotsu Ramen in the world.
 </p>
 
 <p>
-	<% answer = 2 + 3 %>
-	2 + 3 = <%= answer %>
-
+	<div class = "container-image">
+		<div class = "pinImage">
+			<%= image_tag "grant.jpg", height: 300 %>
+		</div>
+	</div>
 </p>
-
-Who on earth am I

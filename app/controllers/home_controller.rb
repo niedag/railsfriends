@@ -3,8 +3,7 @@ class HomeController < ApplicationController
   end
 
   def about
-    @about_me = "My name is Grant Nieda..."
-    @answer = 2 + 2
+    @about_me = "My name is Grant Nieda. I love nature but computers just as much. I am currently an undergraduate researching azooxanthellate corals at Tsukuba University."
   end 
 
 end
