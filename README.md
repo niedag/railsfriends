@@ -8,25 +8,3 @@ Node version v16.16.0j
 
 My first Ruby on Rails project
 This is also my first repository in GitHub.
-
-
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
