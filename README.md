@@ -7,4 +7,4 @@ Rails version 7.0.3.1
 Node version v16.16.0j
 
 My first Ruby on Rails project
-This is also my first repository in GitHub.
+This is also my first repository in GitHub for a project.
