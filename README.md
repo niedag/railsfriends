@@ -9,3 +9,6 @@ Node version v16.16.0j
 My first Ruby on Rails project
 This is also my first repository in GitHub for a project.
 This website is no longer hosted on Heroku due to price changes for their business model.
+
+One of the issues from initial build
+https://stackoverflow.com/questions/73396825/why-is-tzinfo-data-not-recognized-in-the-gemfile
