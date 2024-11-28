@@ -12,3 +12,5 @@ This website is no longer hosted on Heroku due to price changes for their busine
 
 One of the issues from initial build
 https://stackoverflow.com/questions/73396825/why-is-tzinfo-data-not-recognized-in-the-gemfile
+
+Now hosted at: 
